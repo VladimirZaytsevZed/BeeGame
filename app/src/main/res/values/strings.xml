@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeeTest</string>
+    <string name="start">Start</string>
+    <string name="hit">Hit</string>
+    <string name="game_over">Game over!\nGame will be restarted in</string>
+    <string name="text_3">3</string>
+    <string name="game_is_not_in_progress">Game is not in progress!</string>
+</resources>
